@@ -1,0 +1,18 @@
+** Rick and Morty api
+
+------ APP
+1. Holds middlewares looking for the route which checks controller route.
+
+------ UTILS
+1. retrieves api data 
+
+------ CONTROLLER 
+1. if the /api/character, require the 
+
+------ MODEL 
+1. 
+
+------ SERVICE
+- gets the quantity of 'humans'
+- stores quanity of humans in database
+- tells the client how many humans there is?
